@@ -1,0 +1,6 @@
+db.sqlite3
+SocialMy/settings.py
+base/__pychache__
+base/migration
+user/__pychache__
+user/migration

@@ -1,0 +1,8 @@
+.topics__scroll {
+    max-height: 300px;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+}
+
+
+
